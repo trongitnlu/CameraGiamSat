@@ -121,7 +121,7 @@
             <div class="tab-content ">
                 <div role="tabpanel" class="tab-pane active" >
                     <div class="row">
-                        <div class="col-xs-12 col-lg-9">
+                        <div class="col-xs-12 col-lg-12">
                             <div class="row">
                                 @php
                                 $products = DB::select('SELECT product.* FROM slide INNER JOIN slide_product ON slide_product.id_slide = slide.id INNER JOIN product ON slide_product.id_product = product.id
@@ -142,7 +142,7 @@
                                 @endforeach
                             </div>
                         </div>
-                        <div class="col-md-3 hidden-xs hidden-sm hidden-md">
+                        <div class="col-md-3 hidden-xs hidden-sm hidden-md hidden">
                             <a class="b_a2" href="{{url('/category/'.$e->id.'/1')}}"><img alt="lap-camera-giam-sat-khong-day-wifi" src="http://fptcamera.vn/resources/uploads/images/automatic/quang-cao/{{$e->img}}"></a>
                         </div>
                     </div>
@@ -152,7 +152,7 @@
             @endforeach
 
         </div>
-        <div class="col-xs-12 hidden-xs hidden-sm">
+        <div class="col-xs-12 hidden-xs hidden-sm hidden">
             <div class="text-header">Camera các hãng</div>
             <div class="galleryslider">
                 <ul class="slides">
@@ -188,7 +188,7 @@
                 <div class="clear"></div>
             </div>
         </div>
-        <div class="col-xs-12 hidden-xs hidden-sm">
+        <div class="col-xs-12 hidden-xs hidden-sm hidden">
             <div class="text-header">Chấp nhận thanh toán</div>
             <img style="width:100%;margin:10px 0;" alt="Chấp nhận thanh toán" src="http://fptcamera.vn/resources/ui_images/client/background/payments.png">
         </div>
