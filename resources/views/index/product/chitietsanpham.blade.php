@@ -9,7 +9,7 @@
                 <div class="col-xs-12">
                     <div id="ScrollTo2" class="article_header my-breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="{'/'}">Trang chủ</a>
+                            <li><a href="../">Trang chủ</a>
                             </li>
                             <li><a href="#">Camera trọn bộ</a>
                             </li>
@@ -29,7 +29,7 @@
                                 <div class="clear"></div>
                                 <p>Mã sản phẩm: <b>{{ $product->id }}</b>
                                 </p>
-                                <p>Thương hiệu: <a href="http://fptcamera.vn/benco-viet-nam">{{ $thuonghieu==null ? 'VANTECH' : $thuonghieu->name }}</a>
+                                <p>Thương hiệu: <a href="#">{{ $thuonghieu==null ? 'VANTECH' : $thuonghieu->name }}</a>
                                 </p>
                                 <p>Giá thị trường: <span class='detail-oldprice'>{{ number_format(($product->price*1.1)) }}đ</span>
                                 </p>
