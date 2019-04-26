@@ -36,7 +36,7 @@
                                 </p>
                                 <div class="clear"></div>
                                 <div style="float:left;" class="social-likes" data-url="#/lap-dat-camera-gia-re-bo-1-den-8-mat">
-                                    <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FNongLamUniversity%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=1859647834306977" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+                                    <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%lapdatcameraquynhonbinhdinh%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=1859647834306977" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
                                 </div>
                                 <div class="clear"></div>
                                 <form action="{{route('addCart')}}" class="addcart" method="post" accept-charset="utf-8">
