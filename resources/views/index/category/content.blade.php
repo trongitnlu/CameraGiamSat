@@ -25,9 +25,9 @@
                     <h2 style="display:none;">{{$name_cate}}</h2>
                     <div class="clear"></div>
                     <select style="float:right;margin-top:3px;" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
-                        <option value="http://fptcamera.vn/thiet-bi-van-phong">Sắp xếp theo</option>
-                        <option value="http://fptcamera.vn/thiet-bi-van-phong/?o=p-asc">Giá tăng dần</option>
-                        <option value="http://fptcamera.vn/thiet-bi-van-phong/?o=p-desc">Giá giảm dần</option>
+                        <option value="#">Sắp xếp theo</option>
+                        <option value="#">Giá tăng dần</option>
+                        <option value="#">Giá giảm dần</option>
                     </select>
                 </div>
                 <div class="description2"></div>
@@ -47,9 +47,6 @@
                                 </a>
                                 <div class="clear"></div>
                                 <span class="new-price">{{number_format($e->price)}} VNĐ</span>
-                                {{-- 
-                                    <span class="old-price">11.800.000 đ</span> --}}
-                                    
                                 </div>
                             </div>
                         </div>

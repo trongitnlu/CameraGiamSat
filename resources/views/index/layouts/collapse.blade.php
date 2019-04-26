@@ -12,7 +12,7 @@
  					</button>
  					@if(($user = Auth::user())==null)
  					<a class="navbar-brand" href="{{ url('/') }}">
- 						<img alt="Camera FPT Việt Nam tự hào Nhà cung cấp thiết bị camera giám sát giá rẻ uy tín trên toàn quốc" src="http://fptcamera.vn/resources/ui_images/client/background/logo_mobile.png">
+ 						<img alt="Camera NPC Việt Nam tự hào Nhà cung cấp thiết bị camera giám sát giá rẻ uy tín trên toàn quốc" src="https://lh3.googleusercontent.com/-HXE0ZSzUZiQ/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rck-5FAjUQfyx5d7MEoFeg89IoayA/s96-c-mo/photo.jpg">
  					</a>
  					@endif
  					<div class="navbar-brand" id="top-hotline" style="float:right;">

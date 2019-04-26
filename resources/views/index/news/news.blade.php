@@ -1,4 +1,4 @@
-@extends('layouts.subClient')
+<!-- @extends('layouts.subClient')
 @section('content')
 <div class="container">
     <div class="row">
@@ -302,4 +302,4 @@
     </div>
 </div>
 
-@endsection
+@endsection -->

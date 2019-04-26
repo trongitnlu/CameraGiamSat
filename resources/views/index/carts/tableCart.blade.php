@@ -98,10 +98,10 @@
 									</tbody>
 								</table>
 								<input id="addOrder" type="submit" name="submit_cart" value="Mua hàng" class="btn3" style="float:right">
-								<a id="nganluong" class="nganluong" target="_blank" href="https://www.nganluong.vn/button_payment.php?receiver=trongitnlu@gmail.com&product_name=camera&price=200&return_url=google.com&comments='ngoncom'"><img src="https://www.nganluong.vn/css/newhome/img/button/pay-lg.png"border="0" /></a>
+								<!-- <a id="nganluong" class="nganluong" target="_blank" href="https://www.nganluong.vn/button_payment.php?receiver=trongitnlu@gmail.com&product_name=camera&price=200&return_url=google.com&comments='ngoncom'"><img src="https://www.nganluong.vn/css/newhome/img/button/pay-lg.png"border="0" /></a>
 								<a id="apaypal" href="javascript::void(0)" onclick="openRequestedPopup('{{url('gio-hang/paypal')}}/MDH_{{ time() }}/{{ Cart::total1()*0.000044}}')">
 									<img src="https://www.paypal.com/en_US/i/btn/btn_xpressCheckout.gif" align="left" style="margin-right:7px;">
-								</a>
+								</a> -->
 							</td>
 						</tr>
 						<tr class="no-border">
@@ -229,10 +229,10 @@
 												</td>
 											</tr>
 										</tbody></table>
-										<a id="nganluong" class="nganluong" target="_blank" href="https://www.nganluong.vn/button_payment.php?receiver=trongitnlu@gmail.com&product_name=camera&price=200&return_url=google.com&comments='ngoncom'"><img src="https://www.nganluong.vn/css/newhome/img/button/pay-lg.png"border="0" /></a>
+										<!-- <a id="nganluong" class="nganluong" target="_blank" href="https://www.nganluong.vn/button_payment.php?receiver=trongitnlu@gmail.com&product_name=camera&price=200&return_url=google.com&comments='ngoncom'"><img src="https://www.nganluong.vn/css/newhome/img/button/pay-lg.png"border="0" /></a>
 										<a id="apaypal" href="javascript::void(0)" onclick="openRequestedPopup('{{url('gio-hang/paypal')}}/MDH_{{ time() }}/{{ Cart::total1()}}')">
 											<img src="https://www.paypal.com/en_US/i/btn/btn_xpressCheckout.gif" align="left" style="margin-right:7px;">
-										</a>
+										</a> -->
 										<input id="" type="submit" name="submit_cart" value="Mua hàng" class="btn3" style="float:right">                                                                            
 									</tr>
 									<tr class="no-border">

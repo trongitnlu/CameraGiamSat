@@ -12,7 +12,7 @@
 				@foreach($contact as $value)
 				<div class="col-xs-12 col-md-5">
 					<!-- <div class="f-address"> -->
-					{!!$value->content!!}
+					<!-- {!!$value->content!!} -->
 					<!-- </div> -->
 				</div>
 				@endforeach

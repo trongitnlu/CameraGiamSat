@@ -15,10 +15,10 @@
                         <div class="social-claim2">
                             <div class="claim_header">Hỗ trợ khách hàng</div>
                             <ul>
-                                <li><a href="http://fptcamera.vn/tin-tuc/xem-camera-giam-sat-qua-dien-thoai">Xem camera giám sát qua điện thoại</a></li>
-                                <li><a href="http://fptcamera.vn/tin-tuc/xem-camera-quan-sat-qua-may-tinh">Xem camera quan sát qua máy tính</a></li>
-                                <li><a href="http://fptcamera.vn/tin-tuc/download-tai-lieu">Download tài liệu</a></li>
-                                <li><a href="http://fptcamera.vn/tin-tuc/hd-cai-dat-phan-mem-teamviewer">HD cài đặt phần mềm Teamviewer</a></li>
+                                <li><a href="#">Xem camera giám sát qua điện thoại</a></li>
+                                <li><a href="#">Xem camera quan sát qua máy tính</a></li>
+                                <li><a href="#">Download tài liệu</a></li>
+                                <li><a href="#">HD cài đặt phần mềm Teamviewer</a></li>
                             </ul>
                         </div>
                     </div>
@@ -33,7 +33,7 @@
                             <div id="social_us">
                                 <div class="social_us_header">Kết nối với chúng tôi</div>
                                 <div id="f_social">
-                                    <a target="_blank" rel="nofollow" href="#">
+                                    <a target="_blank" rel="nofollow" href="https://www.facebook.com/lapdatcameraquynhonbinhdinh/">
                                         <img src="{{ asset('public/images/ui_images/f_fb.png') }}">
                                     </a>
                                     <a target="_blank" rel="nofollow" href="#">
@@ -57,7 +57,7 @@
                                             <td style="vertical-align: middle;">
                                                 <p><span style="color:#333333;"><span style="font-size:14px;">Tư vấn bán hàng</span></span>
                                                 </p>
-                                                <p><span style="color:#ba0000;"><span style="font-size:20px;"><strong>0163 263 5825</strong></span></span>
+                                                <p><span style="color:#ba0000;"><span style="font-size:20px;"><strong>093 888 4835</strong></span></span>
                                                 </p>
                                             </td>
                                         </tr>
@@ -67,12 +67,12 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td colspan="2" style="text-align: center;"><span style="color:#B22222;"><strong><span style="font-size:16px;">033 263 5825</span></strong>
+                                            <td colspan="2" style="text-align: center;"><span style="color:#B22222;"><strong><span style="font-size:16px;">093 888 4835</span></strong>
                                                 </span>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td colspan="2"><span style="font-size:13px;"><span style="color:#555555;"><img alt="" src="{{ asset('public/images/ui_images/mailer.png') }}" />&nbsp; trongitnlu@gmail.com</span></span>
+                                            <td colspan="2"><span style="font-size:13px;"><span style="color:#555555;"><img alt="" src="{{ asset('public/images/ui_images/mailer.png') }}" />&nbsp; congnghehd68@gmail.com</span></span>
                                             </td>
                                         </tr>
                                     </tbody>

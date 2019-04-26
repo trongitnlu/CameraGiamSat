@@ -12,8 +12,8 @@
 	<meta name="DC.title" content="Camera NPC Việt Nam" />
 	<meta name="geo.region" content="VN-HN" />
 	<meta name="geo.placename" content="Hồ Chí Minh" />
-	<meta name="geo.position" content="20.984321;105.818546" />
-	<meta name="ICBM" content="20.984321, 105.818546" />
+	<!-- <meta name="geo.position" content="20.984321;105.818546" /> -->
+	<!-- <meta name="ICBM" content="20.984321, 105.818546" /> -->
 	@include("link.index")
 	<link rel="stylesheet" type="text/css" href="{{asset('public/stylesheets/social-likes_birman.css')}}" />
 	<script src="{{asset('public/js/social-likes.min.js')}}"></script>
@@ -22,7 +22,7 @@
 
 <body lang="vi">
 	<div id="wrapper">
-		<h1 style="display:none;"><b>Lắp đặt camera quan sát giá rẻ </b>,<b> camera FPT</b></h1>
+		<h1 style="display:none;"><b>Lắp đặt camera quan sát giá rẻ </b>,<b> camera NPC</b></h1>
 		<h2 style="display: none;">Tư vấn lắp đặt camera</h2>
 		<!-- Top start here -->
 		@include("index.top")
@@ -37,7 +37,7 @@
 	</div>
 	<div id="go_top" class="hidden-xs hidden-sm"><i class="fa fa-arrow-circle-up"></i></div>
 	<div id="fixed-bottom" class="hidden-lg hidden-md">
-		<div id="call-xs-sm"><a href="tel:0984 489 688"><i class="fa fa-phone">&nbsp;&nbsp;</i>Gọi 0984 489 688</a></div>
+		<div id="call-xs-sm"><a href="tel:093 888 4835"><i class="fa fa-phone">&nbsp;&nbsp;</i>Gọi 093 888 4835</a></div>
 	</div>
 	<script type="text/javascript" charset="utf-8">
 		$(window).load(function() {
